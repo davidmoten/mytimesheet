@@ -1,0 +1,1 @@
+Quick entry of times, simple GWT interface, ability to import and export times. Focused on non task-specific contractor time reporting requirements.
